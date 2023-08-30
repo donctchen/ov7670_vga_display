@@ -18,4 +18,4 @@ Design for Basys3 FPGA board
 3. Output to VGA port
 
 
-![alt text](https://github.com/donctchen/ov7670_vga_display/edit/main/Basys3 and OV7670 connection.jpg)
+![alt text]('https://github.com/donctchen/ov7670_vga_display/edit/main/Basys3 and OV7670 connection.jpg')

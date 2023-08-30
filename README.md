@@ -17,5 +17,6 @@ Design for Basys3 FPGA board
 2. read OV7670 camera at 320x240 resolution due to RAM size limit in Basys 3
 3. Output to VGA port
 
+## Connection
 
 ![alt text](Basys3_and_OV7670_connection.jpg)
